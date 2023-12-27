@@ -40,6 +40,7 @@ I'm full time developer. Please contact me at panda95718@gmail.com
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
