@@ -195,7 +195,7 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/johnsmith0212"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="johnsmith0212 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/johnsmith0212"><img src="https://profile-counter.glitch.me/{johnsmith0212}/count.svg" alt="johnsmith0212 :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
